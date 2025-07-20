@@ -7,7 +7,7 @@ onderzoeksresultaten zijn gepubliceerd in het bekende academische blad Elsevier,
 kwijtgeraakt!
 Gelukkig weet jij inmiddels voldoende van HTML om deze pagina voor hen te publiceren!
 
-![screenshot_with_styling_white_bg.png](assets/screenshots/screenshot_with_styling_white_bg.png)
+![screenshot_with_styling_white_bg.png](assets/examples/screenshot_with_styling_white_bg.png)
 <sub>_Let op:_ dit screenshot bevat CSS-styling</sub>
 
 ## Opdracht 1 - Onderzoek
