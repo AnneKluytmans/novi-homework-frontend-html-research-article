@@ -46,11 +46,11 @@ The assignment is to rebuild a **scientific article** using only **semantic HTML
 
 Clone the repository in an IDE and run `index.html` in your browser:
 
-```
+```bash
 git@github.com:AnneKluytmans/novi-homework-frontend-html-research-article.git    
-``` 
-or
 ```
+or
+```bash
 git clone https://github.com/AnneKluytmans/novi-homework-frontend-html-research-article.git
 ```
 
